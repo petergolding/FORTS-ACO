@@ -1,0 +1,9 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Mon Oct 19 15:49:41 2015
+        MODULE SELECTION_mod
+          INTERFACE 
+            SUBROUTINE SELECTION(I,J)
+              INTEGER(KIND=4) :: I
+              INTEGER(KIND=4) :: J
+            END SUBROUTINE SELECTION
+          END INTERFACE 
+        END MODULE SELECTION_mod

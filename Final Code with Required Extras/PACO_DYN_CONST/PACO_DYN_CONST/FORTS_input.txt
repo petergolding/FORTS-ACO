@@ -1,0 +1,9 @@
+2		Number of Objectives
+140		Number of countries
+1		Number of years
+34		Number of Buckets
+40000000	Maximum deficit (if no trade occurred)
+140000000	Maximum deviation (Max deficit * 2)
+Country_index.txt
+PDMSR_input.txt
+Initial_storage.txt

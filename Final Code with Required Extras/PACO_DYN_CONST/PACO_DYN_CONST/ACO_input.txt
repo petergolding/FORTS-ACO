@@ -1,0 +1,17 @@
+10000 max interations	(needs to be a factor of both *, **, ***, ****, *****, ******)
+100 max ants
+1.0 alpha
+5.0 beta
+0.01 pheromone persistance (rho)
+728,394,19,0281,23
+50 best1
+25 best2
+75 best12
+1 nearest edge to current trade quantity preference (tau_0*nearest_edge_pref)
+5 iterations for next non-dominate solution 1	(*) (determines file size)
+10 iterations for non_dom file rewrite 2	(**) (determines file size)
+50 iterations for non_dom file rewrite 3 	(***)
+100 iterations for non_dom file rewrite 4 	(****)
+500 iterations for non_dom file rewrite 5 	(*****)
+1000 iterations for non_dom file rewrite 6 	(******)
+99.5 Maximum allowable run time (cuts off and evaluates simulation) (hrs)

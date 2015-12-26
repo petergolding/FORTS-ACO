@@ -1,0 +1,9 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Mon Oct 19 15:49:35 2015
+        MODULE HEU_CALC_mod
+          INTERFACE 
+            SUBROUTINE HEU_CALC(I,J)
+              INTEGER(KIND=4) :: I
+              INTEGER(KIND=4) :: J
+            END SUBROUTINE HEU_CALC
+          END INTERFACE 
+        END MODULE HEU_CALC_mod
